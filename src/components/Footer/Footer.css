@@ -1,0 +1,36 @@
+.footer{
+    display: flex;
+    align-items: center;
+    margin: -0.4rem -3.2rem;
+    position: relative;
+    margin-top: -9rem;
+}
+.f-content{
+    position:absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 4rem;
+    gap: 4rem;
+    color: white;
+    font-size: 150%;
+    font-weight: bolder;
+}
+
+.f-icons{
+    position:absolute;
+    justify-content: center;
+    margin-top: 10rem;
+    gap: 10px;
+    color: white;
+    font-size: 90.5px;
+    font-weight: bold;
+    gap:  -2%;
+}
+@media screen and (max-width: 480px){
+    .f-content{
+      transform: scale(.5);
+    }
+  }

@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80844b64.css",
+    "main.js": "/static/js/main.cf9fd461.js",
+    "static/js/787.0ec0500a.chunk.js": "/static/js/787.0ec0500a.chunk.js",
+    "static/media/Resume.pdf": "/static/media/Resume.2312fd5675dc17792017.pdf",
+    "static/media/ecommerce.png": "/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/sidebar.png": "/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/Girls.jpg": "/static/media/Girls.8f6b7564a6d8cc1e6b54.jpg",
+    "static/media/hoc.png": "/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/index.html",
+    "main.80844b64.css.map": "/static/css/main.80844b64.css.map",
+    "main.cf9fd461.js.map": "/static/js/main.cf9fd461.js.map",
+    "787.0ec0500a.chunk.js.map": "/static/js/787.0ec0500a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80844b64.css",
+    "static/js/main.cf9fd461.js"
+  ]
+}
